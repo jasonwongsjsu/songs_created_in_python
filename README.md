@@ -1,7 +1,7 @@
 # songs_created_in_python
 These python scripts use frequency modulation, envelopes, and unison to create basic tunes. 
 
-## installation requirements
+## Installation requirements
 pydub, FFMPEG, and Thinkx must be installed before running scripts
 
 ## Instructions (after installation requirements have been fufilled)
