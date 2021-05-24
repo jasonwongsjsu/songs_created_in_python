@@ -1,5 +1,5 @@
 # songs_created_in_python
-These python scripts use frequency modulation, envelopes, and unison to create basic tunes. 
+This project was made by me, Dennis Outhavong, and Conrad Solarez of San Jose State University. Two tracks are made from scratch using Python: one ambient and club beat track. 
 
 ## Installation requirements
 pydub, FFMPEG, and Thinkx must be installed before running scripts
